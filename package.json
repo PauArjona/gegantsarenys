@@ -1,0 +1,31 @@
+{
+  "name": "gegantsarenys",
+  "version": "1.0.0",
+  "description": "Web de la Colla Gegantera d'Arenys de Mar",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauarjona/GegantsArenys.git"
+  },
+  "keywords": [
+    "web",
+    "gegants",
+    "arenys",
+    "mar"
+  ],
+  "author": "Pau Arjona Reverter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauarjona/GegantsArenys/issues"
+  },
+  "homepage": "https://github.com/pauarjona/GegantsArenys#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
